@@ -6,5 +6,9 @@
   {
     "role": "user",
     "content": "asd"
+  },
+  {
+    "role": "user",
+    "content": "asd"
   }
 ]
